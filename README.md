@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">👋 Olá, eu sou o Pedro Kamoda</h1>
-<p algins="center">
+<p algin="center">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
 </p>
 
