@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">👋 Olá, eu sou o Pedro Kamoda</h1>
-<img src="https://img.shields.io/badge/dynamic/json" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
 
 <p align="center">
   Técnico em Desenvolvimento de Sistemas • Estudante de Jornalismo (Diferente, né?)• Desenvolvedor Full-Stack  💻
