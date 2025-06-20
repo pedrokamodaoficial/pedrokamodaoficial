@@ -5,6 +5,7 @@
 <h1 align="center">👋 Olá, eu sou o Pedro Kamoda</h1>
 <p align="center">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+<img src="https://img.shields.io/bundlephobia/:format/:packageName">
 </p>
 
 <p align="center">
