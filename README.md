@@ -1,16 +1,41 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pedro-kamoda&style=flat-square" alt="Profile views" />
+</p>
 
-<!--
-**pedrokamodaoficial/pedrokamodaoficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👋 Olá, eu sou o Pedro Kamoda</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  Técnico em Desenvolvimento de Sistemas • Estudante de Jornalismo (Diferente, né?)• Desenvolvedor Full-Stack  💻
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💡 Sobre mim
+
+- 🎓 Técnico em Desenvolvimento de Sistemas pelo SENAI
+- 🧑‍💻 Estudando Java e aprofundando no backend
+- 🎮 Também desenvolvo jogos no GameMaker
+
+---
+
+### 🛠️ Tecnologias
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,c#,java" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pedro-kamoda&show_icons=true&theme=dark&hide_title=true" />
+  <img src="https://streak-stats.demolab.com?user=pedro-kamoda&theme=dark" />
+</p>
+
+---
+
+### 🔗 Contato
+
+- Email: [pedrokamoda@gmail.com](mailto:pedrokamoda@gmail.com)
+- LinkedIn: [linkedin.com/in/pedro-kamoda](https://www.linkedin.com/in/pedro-kamoda-522155204/)
