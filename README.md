@@ -43,4 +43,4 @@
 
 - Email: [pedrokamoda@gmail.com](mailto:pedrokamoda@gmail.com)
 - LinkedIn: [linkedin.com/in/pedro-kamoda](https://www.linkedin.com/in/pedro-kamoda-522155204/)
-- Portfólio: [pedrokamodaoficial.github.io](https://www.pedrokamodaoficial.github.io)
+- Portfólio: [pedrokamodaoficial.github.io](https://pedrokamodaoficial.github.io)
