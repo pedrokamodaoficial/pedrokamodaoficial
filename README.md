@@ -16,7 +16,7 @@
 ### 💡 Sobre mim
 
 - 🎓 Técnico em Desenvolvimento de Sistemas pelo SENAI
-- 🧑‍💻 Estudando Java e aprofundando no backend
+- 🧑‍💻 Me aprofundando no Backend com Node.js!
 - 🎮 Também desenvolvo jogos no GameMaker
 
 ---
