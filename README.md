@@ -16,7 +16,7 @@
 ### 💡 Sobre mim
 
 - 🎓 Técnico em Desenvolvimento de Sistemas pelo SENAI
-- 🧑‍💻 Me aprofundando no Backend com Node.js!
+- 🧑‍💻 Me profissionalizando em JavaScript! Com Node, React, ReactNative e TypeScript! 
 - 🎮 Também desenvolvo jogos no GameMaker
 
 ---
@@ -24,7 +24,7 @@
 ### 🛠️ Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,c#" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,java,c#" />
 </p>
 
 ---
