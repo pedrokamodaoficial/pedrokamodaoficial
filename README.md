@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  Técnico em Desenvolvimento de Sistemas • Estudante de Jornalismo (Diferente, né?)• Desenvolvedor Full-Stack  💻
+  Técnico em Desenvolvimento de Sistemas • Estudante de Jornalismo (Diferente, né?) • Desenvolvedor Full-Stack  💻
 </p>
 
 ---
