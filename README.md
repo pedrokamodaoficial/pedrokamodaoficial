@@ -1,44 +1,53 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pedro-kamoda&style=flat-square" alt="Profile views" />
-</p>
+<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center"> I'm Pedro Kamoda - Junior Software Engineer </h1>
 
-<h1 align="center">👋 Olá, eu sou o Pedro Kamoda</h1>
-<p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
-</p>
+###
 
-<p align="center">
-  Técnico em Desenvolvimento de Sistemas • Estudante de Jornalismo (Diferente, né?) • Desenvolvedor Full-Stack  💻
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react	" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres	" height="60" alt="postgres	 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java	" height="60" alt="java	 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gamemakerstudio" height="60" alt="gamemakerstudio logo"  />
+  <img width="12" />
+  
+</div>
 
----
+###
 
-### 💡 Sobre mim
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+</div>
 
-- 🎓 Técnico em Desenvolvimento de Sistemas pelo SENAI
-- 🧑‍💻 Me profissionalizando em JavaScript! Com Node, React, ReactNative e TypeScript! 
-- 🎮 Também desenvolvo jogos no GameMaker
+###
 
----
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=pedrokamodaoficial&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=pedrokamodaoficial&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
-### 🛠️ Tecnologias
+###
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,c#" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedrokamodaoficial/pedrokamodaoficial/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedrokamodaoficial/pedrokamodaoficial/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pedrokamodaoficial/pedrokamodaoficial/output/pacman-contribution-graph.svg">
+</picture>
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedrokamodaoficial&show_icons=true" />
-</p>
-
----
-
-### 🔗 Contato
-
-- Email: [pedrokamoda@gmail.com](mailto:pedrokamoda@gmail.com)
-- LinkedIn: [linkedin.com/in/pedro-kamoda](https://www.linkedin.com/in/pedro-kamoda-522155204/)
-- Portfólio: [pedrokamodaoficial.github.io](https://pedrokamodaoficial.github.io)
+###
