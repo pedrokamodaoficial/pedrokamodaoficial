@@ -33,7 +33,7 @@
 
 ---
 
-<img align="right" height="150" src="[(https://i.imgflip.com/66o1m8.mp4)](https://i.imgflip.com/6rdx3r.mp4)"  />
+<img align="right" height="150" src="https://i.imgflip.com/66o1m8.gif" />
 
 ---
 
