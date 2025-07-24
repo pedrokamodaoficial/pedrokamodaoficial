@@ -44,14 +44,3 @@
   <img src="https://github-profile-trophy.vercel.app/?username=pedrokamodaoficial&theme=dracula&no-bg=false&no-frame=false&margin-w=8&margin-h=8" height="150" />
 </p>
 
----
-
-## 🕹️ Contribution Graph
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedrokamodaoficial/pedrokamodaoficial/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedrokamodaoficial/pedrokamodaoficial/output/pacman-contribution-graph.svg">
-    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/pedrokamodaoficial/pedrokamodaoficial/output/pacman-contribution-graph.svg">
-  </picture>
-</p>
