@@ -2,11 +2,10 @@
 <h2 align="center">Eu Pedro Kamoda - Técnico em desenovlvimento de sistemas e Engenheiro da Computação</h2>
 
 ---
-<h2 align="center">🖥 Formado técnico em desenvolvimento de sistemas pelo SENAI</h2>
-<h2 align="center">📖 Cursando bacharelado em Engenharia da Computação</h2>
-<h2 align="center">📸 Graduado em jornalismo!</h2>
-<h2 align="center">♨️ Dedicado a me tornar engenheiro de software especializado com Java!</h2>
-
+<h2>🖥 Formado técnico em desenvolvimento de sistemas pelo SENAI</h2>
+<h2>📖 Cursando bacharelado em Engenharia da Computação</h2>
+<h2>📸 Graduado em jornalismo!</h2>
+<h2>♨️ Dedicado a me tornar engenheiro de software especializado com Java!</h2>
 ---
 
 <div align="center">
