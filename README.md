@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/pedrokamodaoficial/pedrokamodaoficial/raw/main/profile-banner.png" alt="Profile Banner" style="max-width: 100%; border-radius: 12px;" />
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQHcV7jp6CY4qA/profile-displaybackgroundimage-shrink_350_1400/B4DZgatt6QHwAY-/0/1752794849854?e=1756339200&v=beta&t=zLBAveNR_YWxHu2s7HMu2dK9GNbD37GkItuWdslqq7A" alt="Profile Banner" style="max-width: 100%; border-radius: 12px;" />
 </p>
 
 <h1 align="center">Fala, dev! Tudo certo?</h1>
