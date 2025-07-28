@@ -9,10 +9,10 @@
 
 ## 👨‍💻 Sobre Mim
 
-- 🖥️ **Técnico em Desenvolvimento de Sistemas** pelo SENAI
+- 🖥️ **Técnico em Desenvolvimento de Sistemas pelo SENAI** 
 - 🎓 **Graduando em Engenharia da Computação**
 - 📰 **Formado em Jornalismo**
-- ☕ **Apaixonado por Java e Engenharia de Software**
+- ☕ **Me aprimorando em Java e Engenharia de Software**
 
 ---
 
