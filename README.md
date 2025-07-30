@@ -3,16 +3,16 @@
 </p>
 
 <h1 align="center">Fala, dev! Tudo certo?</h1>
-<h2 align="center">Eu sou Pedro Kamoda — Técnico em Desenvolvimento de Sistemas & Engenheiro da Computação</h2>
+<h2 align="center">Eu sou Pedro Kamoda — Técnico em Desenvolvimento de Sistemas & Estudante de Engenharia da Computação</h2>
 
 ---
 
 ## 👨‍💻 Sobre Mim
 
 - 🖥️ **Técnico em Desenvolvimento de Sistemas pelo SENAI** 
-- 🎓 **Graduando em Engenharia da Computação**
+- 🎓 **Graduando em Engenharia da Computação na Impacta**
 - 📰 **Formado em Jornalismo**
-- ☕ **Me aprimorando em Java e Engenharia de Software**
+- ☕ **Me aprimorando em Backend e Engenharia de Software**
 
 ---
 
