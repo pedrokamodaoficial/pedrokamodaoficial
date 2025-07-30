@@ -40,7 +40,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=pedrokamodaoficial&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=6" height="150" />
-  <img src="https://github-profile-trophy.vercel.app/?username=pedrokamodaoficial&theme=dracula&no-bg=false&no-frame=false&margin-w=8&margin-h=8" height="150" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pedrokamodaoficial&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrokamodaoficial&layout=compact&theme=dracula&hide_border=true" alt="Top Langs" />
+  <br/>
+  <img height="150" src="https://streak-stats.demolab.com?user=pedrokamodaoficial&locale=pt_BR&mode=daily&theme=dracula&hide_border=true&border_radius=6" />
+  <img height="150" src="https://github-profile-trophy.vercel.app/?username=pedrokamodaoficial&theme=dracula&no-frame=true&margin-w=8&margin-h=8" />
 </p>
 
