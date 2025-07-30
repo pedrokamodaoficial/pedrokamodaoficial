@@ -19,7 +19,7 @@
 ## 🚀 Tecnologias & Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,tailwind,bootstrap,postgres,java,c#,gamemakerstudio" height="60" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,tailwind,bootstrap,postgres,cs,java,gamemakerstudio" height="60" />
 </p>
 
 ---
