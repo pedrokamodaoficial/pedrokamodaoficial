@@ -43,6 +43,7 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=pedrokamodaoficial&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrokamodaoficial&layout=compact&theme=dracula&hide_border=true" alt="Top Langs" />
   <br/>
-  <img height="150" src="https://streak-stats.demolab.com?user=pedrokamodaoficial&locale=pt_BR&mode=daily&theme=dracula&hide_border=true&border_radius=6" />
+  <img height="170" src="https://img.shields.io/github/followers/pedrokamodaoficial?label=Followers&style=social" alt="Followers" />
+  <img height="170" src="https://img.shields.io/github/stars/pedrokamodaoficial?label=Stars&style=social" alt="Stars" />
 </p>
 
