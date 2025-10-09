@@ -90,7 +90,8 @@ I'm <strong>Pedro Kamoda</strong> from São Paulo, Brazil.<br><br>
 <div align="center">
 
   <!-- STREAK STATS -->
-  <img src="https://streak-stats.demolab.com?user=pedrokamodaoficial&theme=tokyonight&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D" height="200" alt="streak stats" />
+  ![GitHub Streak](https://streak-stats.demolab.com?user=pedrokamodaoficial&theme=blue-navy&hide_border=true)
+
 
   <br><br>
 
