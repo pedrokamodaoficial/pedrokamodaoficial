@@ -83,27 +83,6 @@ I'm <strong>Pedro Kamoda</strong> from São Paulo, Brazil.<br><br>
 
 ###
 
-<h3 align="left">🔥 My GitHub Stats</h3>
-
-###
-
-<div align="center">
-
-  <!-- STREAK STATS -->
-  ![GitHub Streak](https://streak-stats.demolab.com?user=pedrokamodaoficial&theme=blue-navy&hide_border=true)
-
-
-  <br><br>
-
-  <!-- GITHUB STATS -->
-  <img src="https://github-readme-stats.vercel.app/api?username=pedrokamodaoficial&show_icons=true&theme=tokyonight&hide_border=false&border_radius=5" height="180" alt="github stats" />
-
-  <!-- TOP LANGUAGES -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrokamodaoficial&layout=compact&theme=tokyonight&hide_border=false&border_radius=5" height="180" alt="top languages" />
-</div>
-
-###
-
 <h3 align="center">💬 Let's Connect!</h3>
 
 <p align="center">
