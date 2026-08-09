@@ -14,13 +14,3 @@ Desenvolvedor focado em **Java**, com bons conhecimentos também em **Python**, 
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div>
-## 📊 Estatísticas
- 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=pedrokamodaoficial&show_icons=true&theme=default&hide_border=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrokamodaoficial&layout=compact&theme=default&hide_border=true" width="40%"/>
-</div>
-<div align="center">
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=pedrokamodaoficial.pedrokamodaoficial&color=F89820)
- 
-</div>
