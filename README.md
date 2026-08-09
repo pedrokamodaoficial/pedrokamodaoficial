@@ -21,6 +21,6 @@ Desenvolvedor focado em **Java**, com bons conhecimentos também em **Python**, 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrokamodaoficial&layout=compact&theme=default&hide_border=true" width="40%"/>
 </div>
 <div align="center">
-![Profile Views](https://komarev.com/ghpvc/?username=pedrokamodaoficial&color=F89820&style=flat)
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=pedrokamodaoficial.pedrokamodaoficial&color=F89820)
  
 </div>
