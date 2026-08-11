@@ -10,7 +10,7 @@ Desenvolvedor focado em **Java**, com bons conhecimentos também em **Python**, 
 [![GitHub followers](https://img.shields.io/github/followers/pedrokamodaoficial?label=follow&style=social)](https://github.com/pedrokamodaoficial)
 
 ```java
-public class Pedro{]
+public class Pedro{
 
    String name = "Pedro Kamoda";
    String graduation = "Computer Enginner at Impacta/SP";
