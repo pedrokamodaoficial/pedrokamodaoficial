@@ -6,12 +6,8 @@
  
 Desenvolvedor focado em **Java**, com bons conhecimentos também em **Python**, **C#** e **JavaScript**. Gosto de construir projetos práticos, especialmente envolvendo consumo de APIs.
  
-## 🛠️ Tecnologias
- 
-<div align="center">
 [![LinkedIn](https://img.shields.io/badge/-PedroKamoda-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/opedrokamoda/)
 [![GitHub followers](https://img.shields.io/github/followers/pedrokamodaoficial?label=follow&style=social)](https://github.com/pedrokamodaoficial)
-</div>
 
 ```java
 public class Pedro{]
