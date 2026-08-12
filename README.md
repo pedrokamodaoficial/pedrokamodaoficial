@@ -11,6 +11,7 @@ Currently studying **Computer Engineering**, applying my studies to building **R
 [![LinkedIn](https://img.shields.io/badge/-PedroKamoda-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/opedrokamoda/)
 [![GitHub followers](https://img.shields.io/github/followers/pedrokamodaoficial?label=follow&style=social)](https://github.com/pedrokamodaoficial)
 
+```java
 public class Developer {
 
     private String name = "Pedro Kamoda";
@@ -38,3 +39,4 @@ public class Developer {
         System.out.println(me.name + " is coding...");
     }
 }
+```
