@@ -17,6 +17,7 @@ public class Developer {
     private String name = "Pedro Kamoda";
     private String role = "Backend Java Developer";
     private String degree = "Computer Engineering Student";
+    private String email = "pedrokamoda@gmail.com"
 
     private String[] skills = {
         "Java", "Spring Boot", "Spring MVC", "Spring Data",
@@ -40,10 +41,6 @@ public class Developer {
     }
 }
 ```
-
-<img src="https://raw.githubusercontent.com/pedrokamodaoficial/pedrokamodaoficial/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
-<img src="https://raw.githubusercontent.com/pedrokamodaoficial/pedrokamodaoficial/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
-<img src="https://raw.githubusercontent.com/pedrokamodaoficial/pedrokamodaoficial/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 
 
 
