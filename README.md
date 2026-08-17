@@ -26,12 +26,11 @@ public class Developer {
 
     private String currentFocus = "Building REST APIs";
 
-    public String[] getGoals() {
+    public String[] putSkills() {
         return new String[] {
             "Hexagonal CRUD in Java",
             "E-Players technic graduation project"
             "Good knowledge in Python, JavaScript and C#"
-            "Always studying something new!"
         };
     }
 
